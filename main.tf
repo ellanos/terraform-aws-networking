@@ -1,4 +1,4 @@
-# ---- mtc networking/main.tf -----
+# ---- my mtc networking/main.tf -----
 
 locals {
   security_groups = {
